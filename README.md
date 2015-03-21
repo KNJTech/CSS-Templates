@@ -1,6 +1,6 @@
-# Official layout files - KNJ Technologies
+# Website Templates for your website !
 
-  This repo contains all webfiles of our website.<br>
+  This repo contains all sorts of templates.<br>
   You are allowed to tweak the layout, but not allowed to sell it.
   
   
